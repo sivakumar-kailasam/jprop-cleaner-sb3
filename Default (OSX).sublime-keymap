@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+j", "super+c"], "command": "jp_cleaner" }
+]
